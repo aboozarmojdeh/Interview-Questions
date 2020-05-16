@@ -3,4 +3,7 @@ Coding Interview is one of the key of success when you apply as a web developer 
  Hope you Enjoy! <br />
  Please subscribe to my Youtube channel to receive new updated topics and codes as well.<br /> 
  https://www.youtube.com/channel/UCw_mZRJZgA4Pz9ngMo6-9ww <br />
- Cheers! 
+ Cheers! <br />
+ 
+ ### Below codes are uploaded in Youtube Channel:
+ [abagrams-method1](https://www.google.com)
