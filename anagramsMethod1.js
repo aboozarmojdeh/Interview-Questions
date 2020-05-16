@@ -12,3 +12,5 @@ function cleanString(str) {
     .sort()
     .join("");
 }
+
+anagrams("debit card", "bad credit")
