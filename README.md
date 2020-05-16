@@ -6,4 +6,4 @@ Coding Interview is one of the key of success when you apply as a web developer 
  Cheers! <br />
  
  ### Below codes are uploaded in Youtube Channel:
- [abagrams-method1](https://www.google.com)
+ 1. [abagrams-method1](https://github.com/aboozarmojdeh/Interview-Questions/blob/master/anagramsMethod1.js)
